@@ -1,0 +1,62 @@
+header{
+    background-color: white;
+	color: red;
+	
+}
+h1 {
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: black;
+    margin: 0px 5px;
+}
+
+nav, ul,li,.a{
+    
+    display: inline-block;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+h4{
+    color: grey;
+}
+.l1{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
+.a:hover{
+    color:green
+}
+
+.btn{
+    display: inline-block;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 16;
+    border-radius: 20%;
+}
+.btn:hover{
+    background-color: grey;
+    color:blue
+}
+ul,li{
+    text-decoration: none;
+}
+
+.F{
+    text-align: center;
+    color: red;
+}
+.right{
+    float: right;
+    display: block;
+}
+.a{
+    text-decoration: none;
+}
